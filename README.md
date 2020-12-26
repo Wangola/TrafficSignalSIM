@@ -36,3 +36,5 @@ Additional Concepts used
 •	High() and Low() functions to obtain a 16 bit value.
 
 ### Electric circuit diagram –
+
+![Electric Circuit Diagram](Pictures/Electric%circuit%diagram.PNG)

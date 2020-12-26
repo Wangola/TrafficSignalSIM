@@ -38,3 +38,7 @@ Additional Concepts used
 ### Electric circuit diagram –
 
 ![Electric Circuit Diagram](Pictures/Electric%20circuit%20diagram.PNG)
+
+### License
+
+[License](LICENSE)

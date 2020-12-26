@@ -1,0 +1,55 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328"</DEVICE>
+ <WORKING_DIR>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\Debug\TrafficSignalSIM.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>TrafficSignalSIM.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>TrafficSignalSIM.map</FILE>
+  <FILE>TrafficSignalSIM.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>71</LINE></main>
+  <oc1a_isr><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>146</LINE></oc1a_isr>
+  <ext1_isr><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>166</LINE></ext1_isr>
+  <end_main><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>142</LINE></end_main>
+  <get_normalCounter><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>209</LINE></get_normalCounter>
+  <toggle_mismatch><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>160</LINE></toggle_mismatch>
+  <led_toggle><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>245</LINE></led_toggle>
+  <fast_loop><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>182</LINE></fast_loop>
+  <get_fastCounter><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>227</LINE></get_fastCounter>
+  <toggle_mismatchFast><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>196</LINE></toggle_mismatchFast>
+  <return_normal><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>201</LINE></return_normal>
+  <timer1_1s><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>305</LINE></timer1_1s>
+  <timer1_regular_reset><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>383</LINE></timer1_regular_reset>
+  <normal><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>418</LINE></normal>
+  <fast><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>420</LINE></fast>
+  <check_Yellow><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>259</LINE></check_Yellow>
+  <toggle_Green><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>350</LINE></toggle_Green>
+  <check_Red><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>265</LINE></check_Red>
+  <toggle_Yellow><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>361</LINE></toggle_Yellow>
+  <check_state><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>271</LINE></check_state>
+  <toggle_Red><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>372</LINE></toggle_Red>
+  <increment_state><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>278</LINE></increment_state>
+  <reset_state><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>340</LINE></reset_state>
+  <continue_toggle><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>281</LINE></continue_toggle>
+  <check_Yellow_Again><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>287</LINE></check_Yellow_Again>
+  <check_Red_Again><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>293</LINE></check_Red_Again>
+  <Exit_Toggle><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>299</LINE></Exit_Toggle>
+  <tov1_lp><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>324</LINE></tov1_lp>
+  <slow><FILE>C:\Users\William\Documents\School Work\FGCU\Fall 2020\Comp Org & Assem Lang Pro\Projects\TrafficSignalSIM\TrafficSignalSIM.asm</FILE><LINE>419</LINE></slow>
+ </LABELS>
+</ASSEMBLER_INFO>
